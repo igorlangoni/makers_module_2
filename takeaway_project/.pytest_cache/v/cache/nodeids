@@ -1,0 +1,10 @@
+[
+  "tests/test_integration.py::test_initializes_with_dish_list_param_and_return_menu",
+  "tests/test_integration.py::test_making_order_returns_list_of_dishes_and_total_price",
+  "tests/test_integration.py::test_menu_returns_a_list_with_all_dishes",
+  "tests/test_integration.py::test_placing_order_sends_sms",
+  "tests/test_send_sms.py::test_placing_order_sends_sms",
+  "tests/test_takeaway.py::test_make_order_adds_to_order_list",
+  "tests/test_takeaway.py::test_making_order_returns_list_of_dishes_and_total_price",
+  "tests/test_takeaway.py::test_menu_returns_a_list_with_all_dishes"
+]

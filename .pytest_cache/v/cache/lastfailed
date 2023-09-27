@@ -1,0 +1,5 @@
+{
+  "takeaway_project/tests/test_integration.py::test_adding_multiple_dishes_to_order": true,
+  "takeaway_project/tests/test_takeaway.py::test_send_msg_returns_confirmation_string": true,
+  "takeaway_project/tests/test_send_sms.py": true
+}

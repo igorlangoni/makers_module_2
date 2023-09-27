@@ -1,0 +1,19 @@
+[
+  "takeaway_project/tests/test_integration.py::test_add_multiple_dishes_to_order_can_return_them_and_grand_total",
+  "takeaway_project/tests/test_integration.py::test_add_multiple_dishes_to_order_returns_them_and_grand_total",
+  "takeaway_project/tests/test_integration.py::test_adding_multiple_dishes_to_order",
+  "takeaway_project/tests/test_integration.py::test_adding_multiple_dishes_to_order_if_they_are_in_menu",
+  "takeaway_project/tests/test_integration.py::test_initializes_with_dish_list_param_and_return_menu",
+  "takeaway_project/tests/test_integration.py::test_placing_an_order_empties_the_previous_order",
+  "takeaway_project/tests/test_integration.py::test_placing_an_order_sends_sms_with_arrive_by_time",
+  "takeaway_project/tests/test_integration.py::test_placing_order_with_nothing_in_it",
+  "takeaway_project/tests/test_integration.py::test_placing_order_with_nothing_in_it_raises_error",
+  "takeaway_project/tests/test_integration.py::test_raises_error_if_order_item_not_in_menu",
+  "takeaway_project/tests/test_integration.py::test_raises_error_if_ordered_item_not_in_menu",
+  "takeaway_project/tests/test_integration.py::test_send_msg_returns_confirmation_string",
+  "takeaway_project/tests/test_send_sms.py::test_send_msg_returns_confirmation_string",
+  "takeaway_project/tests/test_takeaway.py::test_add_multiple_dishes_to_order_returns_them_and_grand_total",
+  "takeaway_project/tests/test_takeaway.py::test_adding_multiple_dishes_to_order_if_they_are_in_menu",
+  "takeaway_project/tests/test_takeaway.py::test_initializes_with_dish_list_param_and_return_menu",
+  "takeaway_project/tests/test_takeaway.py::test_send_msg_returns_confirmation_string"
+]
